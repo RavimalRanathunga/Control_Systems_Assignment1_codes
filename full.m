@@ -785,14 +785,3 @@ function theta_out = theta_outd_t(t)
         theta_out = 34; % theta_outd_final;
     end
 end
-
-
-
-%% 14. Temperature variation with PI controller with different ki values when outdoor temperature changes steadily.(kp = 42)
-
-
-
-
-
-
-%% 15.Steady state error with different kp values when outdoor temperature changes steadily
